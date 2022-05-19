@@ -1,6 +1,6 @@
 var data = [
     {
-        "nomeDoProduto": "Personalize seu MacBook Pro de 13 polegadas – Prateado",
+        "nomeDoProduto": "MacBook Pro de 13 polegadas – Prateado",
         "fabricanteDoProduto": "Apple",
         "descricaoDoProduto": "Chip M1 da Apple com CPU de 8 núcleos, GPU de 8 núcleos e Neural Engine de 16 núcleos",
         "imagemDoProduto": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-silver-select-202011_GEO_BR?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1632950237000",
