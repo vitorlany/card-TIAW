@@ -19,10 +19,10 @@ var data = [
         "imagemDoProduto": "https://samsungbr.vtexassets.com/arquivos/ids/331036-1200-auto?width=1200&height=auto&aspect=true",
         "linkDetalhes": "#",
         "varegistas": [
-            { "nome": "Loja 1", "precoNovo": 5150, "precoAntigo": 5399, "link": "#" },
-            { "nome": "Loja 2", "precoNovo": 4890, "precoAntigo": 5399, "link": "#" },
-            { "nome": "Loja 3", "precoNovo": 4950, "precoAntigo": 5399, "link": "#" },
-            { "nome": "Loja 4", "precoNovo": 5090, "precoAntigo": 5399, "link": "#" },
+            { "nome": "Americanas", "precoNovo": 5150, "precoAntigo": 5399, "link": "#" },
+            { "nome": "Submarino", "precoNovo": 4890, "precoAntigo": 5399, "link": "#" },
+            { "nome": "Mercado Livre", "precoNovo": 4950, "precoAntigo": 5399, "link": "#" },
+            { "nome": "Pichau", "precoNovo": 5090, "precoAntigo": 5399, "link": "#" },
         ],
     },
     {
@@ -32,10 +32,10 @@ var data = [
         "imagemDoProduto": "https://m.media-amazon.com/images/I/41TzSmedi1L._AC_SX679_.jpg",
         "linkDetalhes": "#",
         "varegistas": [
-            { "nome": "Loja 1", "precoNovo": 4300, "precoAntigo": 4594, "link": "#" },
-            { "nome": "Loja 2", "precoNovo": 4200, "precoAntigo": 4594, "link": "#" },
-            { "nome": "Loja 3", "precoNovo": 4340, "precoAntigo": 4594, "link": "#" },
-            { "nome": "Loja 4", "precoNovo": 4500, "precoAntigo": 4594, "link": "#" },
+            { "nome": "Americanas", "precoNovo": 4300, "precoAntigo": 4594, "link": "#" },
+            { "nome": "Submarino", "precoNovo": 4200, "precoAntigo": 4594, "link": "#" },
+            { "nome": "Mercado Livre", "precoNovo": 4340, "precoAntigo": 4594, "link": "#" },
+            { "nome": "Pichau", "precoNovo": 4500, "precoAntigo": 4594, "link": "#" },
         ],
     },
 ]
