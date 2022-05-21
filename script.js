@@ -16,7 +16,7 @@ function construirPagina() {
         let desconto = (100 - (element.varegistas[melhorPreco(element)].precoNovo * 100 / element.varegistas[melhorPreco(element)].precoAntigo)).toFixed()
         cardsID.innerHTML += `
             <div class="card-produtos">
-                <a class="card-a" href="#">
+                <a class="card-a" href="${element.linkDetalhes}">
                     <div class="card-img">
                         <img class="card-img-dentro" src="${element.imagemDoProduto}" alt="imagem-produto">
                     </div>
